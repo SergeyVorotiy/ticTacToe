@@ -85,6 +85,6 @@ while play_again == "y":
 
             print(field_output(tic_tac_toe_field))
         # Выводим сообщение о конце игры
-        print("Игра окончена!\n")
+    print("Игра окончена!\n")
         #Спрашиваем не хотят ли игроки сыграть еше
     play_again = input("Сыграть ещё?(y/no)")
